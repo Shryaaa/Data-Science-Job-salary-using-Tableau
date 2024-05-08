@@ -1,4 +1,14 @@
+#Dashboard Link:
+
+https://prod-apnortheast-a.online.tableau.com/t/bshreya23mda8a4805f911/authoring/DataScienceJobssalariesdashboard_17151566441730/Dashboard1/Data%20Science%20Jobs%20salaries%20dashboard#1
+
+
+
+
+
+
 # Data-Science-Job-salary-using-Tableau
+
 
 
 Creating a visualization of data science job salaries using Tableau can be a powerful way to analyze and communicate salary trends in the field. Here's a detailed description of how you can achieve this:
